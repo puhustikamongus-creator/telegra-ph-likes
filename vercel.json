@@ -1,8 +1,6 @@
 {
-  "version": 2,
   "functions": {
-    "api/*.js": {
-      "memory": 128
-    }
+    "api/like.js": { "memory": 128 },
+    "api/comment.js": { "memory": 128 }
   }
 }
