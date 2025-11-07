@@ -1,6 +1,10 @@
 {
   "functions": {
-    "api/like.js": { "memory": 128 },
-    "api/comment.js": { "memory": 128 }
+    "api/like.js": {
+      "runtime": "nodejs18.x"
+    },
+    "api/comment.js": {
+      "runtime": "nodejs18.x"
+    }
   }
 }
