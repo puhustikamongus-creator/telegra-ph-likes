@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/like.js": {
+      "runtime": "nodejs18.x"
+    },
+    "api/comment.js": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
